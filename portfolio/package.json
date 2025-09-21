@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-local-server",
+  "version": "1.0.0",
+  "description": "Static portfolio with local contact endpoint and optional email notifications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
